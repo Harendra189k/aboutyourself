@@ -18,7 +18,6 @@ import {
 } from 'react-router-dom'
 import { Context } from './context/Context'
 
-// This is comment
 function App () {
   const { user } = useContext(Context)
   return (
